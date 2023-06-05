@@ -1,0 +1,19 @@
+.timetable {
+	width: 600px; 
+	margin: 0 auto;
+  }
+  
+  .timetable td, th {
+	border: 1px solid #ddd;
+	padding: 8px; 
+  }
+  
+  .timetable tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .timetable th {
+	padding-top: 12px;
+	padding-bottom: 12px;   
+	text-align: left;   
+	background-color: #04AA6D;
+	color: white;
+  }
